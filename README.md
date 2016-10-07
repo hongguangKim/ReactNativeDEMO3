@@ -1,4 +1,4 @@
-### ReactNativeDEMO2
+### ReactNativeDEMO3
   This is my third RN DEMO. I used react-native-swiper module in this project.<br>
   You can use it to make some diffrent Tab style like Tabs on the top or bottom.<br>
   Slide the contents to change the Tab.
@@ -11,4 +11,4 @@
    make sure closed your npm server and executive command as below.<br>
    'npm install react-native-swiper --save'
 ### Demo
-![demo](https://raw.githubusercontent.com/hongguangKim/ReactNativeDEMO2/master/README/demo.PNG)
+![demo](https://raw.githubusercontent.com/hongguangKim/ReactNativeDEMO3/master/README/demo.PNG)
